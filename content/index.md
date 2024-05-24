@@ -1,3 +1,7 @@
+---
+title: Cumberland CA FAQ
+---
+
 # *CMSC320 - Publishing your Final Project to the Web!*
 
 Congratulations on finishing your CMSC320 final project. In this article, we're going to walk you through the very last step of your project...publication to the internet!
