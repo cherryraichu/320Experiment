@@ -30,11 +30,12 @@ GitHub is a free provider of internet hosting for software development and versi
     ![image info](repo.png)
 
 4. Deploy your website by navigating to Pages in the settings of your project repository and checking off the following settings:
-    1. Branch: main
-    2. Source: Deploy from a branch
+    1. Source: Deploy from a branch
+    2. Branch: main
 
 5. Your settings should look like the following if you've successfully deployed your site:
     ![image info](pagesSetting.png)
+    * Your site might not immediately be deployed. Allow for some time for your repository changes to sync.
 
 6. Check if your website works and is formatted correctly by visiting `username.github.io` in your internet browser
     ![image info](websitePreview.png)
