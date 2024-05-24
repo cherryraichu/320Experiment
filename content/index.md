@@ -1,5 +1,5 @@
 ---
-title: CMSC320 - Publishing your Final Project to the Web!
+title: Publishing your Project with Github Pages
 ---
 
 Congratulations on finishing your CMSC320 final project. In this article, we're going to walk you through the very last step of your project...publication to the internet!
