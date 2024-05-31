@@ -37,9 +37,16 @@ GitHub is a free provider of internet hosting for software development and versi
     ![image info](pagesSetting.png)
     * Your site might not immediately be deployed. Allow for some time for your repository changes to sync.
 
-6. Check if your website works and is formatted correctly by visiting `username.github.io` in your internet browser
+6. Check if your website works and is formatted correctly by visiting `username.github.io` in your internet browser.
     ![image info](websitePreview.png)
     * The deliverable to the CMSC320 staff will then be the single URL `username.github.io` pointing to this publicly-hosted GitHub Pages-backed website.
 
     
 # Troubleshooting and FAQs
+
+Q: Why do I get the error "The site can't be reached" when I visit my site `username.github.io`?
+
+A: In previous semesters, students have had issues with UMD's wifi eduroam blocking their site. Students have been suggested to try the following:
+
+* Using non-campus wifi, try to deploy the site again in a new repository (following the same steps of the project publication tutorial).
+* Email the CMSC320 staff at [cmsc320gradingissues.dr.fardina@gmail.com](mailto:cmsc320gradingissues.dr.fardina@gmail.com) a copy of your `index.html` file before the submission deadline as a backup if you still are encountering issues deploying your website.
