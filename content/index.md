@@ -44,9 +44,10 @@ GitHub is a free provider of internet hosting for software development and versi
     
 # Troubleshooting and FAQs
 
-Q: Why do I get the error "The site can't be reached" when I visit my site `username.github.io`?
+Q: Why do I get the error "This site can't be reached" when I visit my site `username.github.io`?
 
 A: In previous semesters, students have had issues with UMD's wifi eduroam blocking their site. Students have been suggested to try the following:
 
-* Using non-campus wifi, try to deploy the site again in a new repository (following the same steps of the project publication tutorial).
-* Email the CMSC320 staff at [cmsc320gradingissues.dr.fardina@gmail.com](mailto:cmsc320gradingissues.dr.fardina@gmail.com) a copy of your `index.html` file before the submission deadline as a backup if you still are encountering issues deploying your website.
+* First, check that the site loads while on a different wifi network. Submissions will be graded off-campus. 
+* If the error persists on different wifi networks, students should try to deploy the site again in a new repository (following the same steps of the project publication tutorial) using non-campus wifi.
+* Email the CMSC320 staff at [cmsc320gradingissues.dr.fardina@gmail.com](mailto:cmsc320gradingissues.dr.fardina@gmail.com) a copy of your `index.html` file before the submission deadline as a backup if you still are encountering issues with your website.
