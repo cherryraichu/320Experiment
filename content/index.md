@@ -13,7 +13,7 @@ GitHub is a free provider of internet hosting for software development and versi
 1. Download your Google Colab file and convert it from a file with a `.ipynb` extention to a `.html` file
     ![image info](projectdownload.png)
     * Make sure you download the .ipynb file *after running the code* within your cells so that it contains the output of your code.
-    * This <a href="https://colab.research.google.com/github/Mostafa-MR/Convert_ipynb_to_HTML_in_Colab/blob/main/Convert_ipynb_to_HTML_in_Colab.ipynb">link</a> is a online resource that can be used for converting files from .ipynb to .html format
+    * This <a href="https://colab.research.google.com/github/Mostafa-MR/Convert_ipynb_to_HTML_in_Colab/blob/main/Convert_ipynb_to_HTML_in_Colab.ipynb">link</a> is a online resource that can be used for converting files from `.ipynb` to `.html` format
 
 2. Create a Github repository for your project and title it `username.github.io`. 
 
